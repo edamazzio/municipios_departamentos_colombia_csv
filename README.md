@@ -1,4 +1,5 @@
-# municipios_departamentos_colombia_csv
+# Municipios y Departamentos de Colombia
+
 CSV con los Municipios y Departamentos por municipios de Colombia
 
 Tomado de https://blog.jorgeivanmeza.com/2008/09/departamentos-y-municipios-de-colombia-actualizacion-20080915/
